@@ -1,0 +1,15 @@
+# Telegram Bot
+python-telegram-bot==22.5
+
+# WebSocket client
+websockets==13.1
+
+# HTTP client (for legacy compatibility)
+httpx==0.28.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Timezone support
+tzdata==2024.1
+
